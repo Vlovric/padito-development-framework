@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)]([https://opensource.org/licenses/MIT](https://www.apache.org/licenses/LICENSE-2.0))
 [![Framework: Design-First](https://img.shields.io/badge/Framework-Design--First-blue.svg)]()
 
 # padito-development-framework
