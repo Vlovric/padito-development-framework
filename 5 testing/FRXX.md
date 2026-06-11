@@ -3,16 +3,16 @@
 # [[FRXX - name#FRXX_XX - Name]]
 ## Unit
 
-| Request | Test name / path | Status |
-| ------- | ---------------- | ------ |
-|         |                  |        |
+| ID  | Test name / path | Status |
+| --- | ---------------- | ------ |
+|     |                  |        |
 
 ## Integration
-| Request | Test name / path | Status |
-| ------- | ---------------- | ------ |
-|         |                  |        |
+| ID  | Test name / path | Status |
+| --- | ---------------- | ------ |
+|     |                  |        |
 ## E2E
-| Request | Test name / path | Status |
-| ------- | ---------------- | ------ |
-|         |                  |        |
+| ID  | Test name / path | Status |
+| --- | ---------------- | ------ |
+|     |                  |        |
 # ...

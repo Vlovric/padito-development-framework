@@ -2,6 +2,6 @@
 - `high level business logic`
 # Entity name
 
-| Atribute | Purpose / Usage | Rules / Validations                         |
-| :------- | :-------------- | :------------------------------------------ |
-| `Title`  |                 | Mandatory<br>Non empty<br>Max X char<br>... |
+| Atribute | Purpose / Usage | Rules / Validations             |
+| :------- | :-------------- | :------------------------------ |
+| `Title`  |                 | Mandatory<br>Size capped<br>... |

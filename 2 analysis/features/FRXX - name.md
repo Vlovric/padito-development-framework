@@ -14,13 +14,15 @@
 | FR dependency |                                           |
 ### 2.1. Happy path
 
-| **Scenario**      | Name of happy path |
+| ID:               | FRXX_XX-HP_XX      |
 | ----------------- | ------------------ |
+| **Scenario**      | Name of happy path |
 | **Precondition**  |                    |
 | **Trigger**       |                    |
 | **System action** |                    |
 | **UI reaction**   |                    |
 ### 2.2. Edge cases
+**ID**: FRXX_XX-EC_XX
 **Scenario**: Name of edge case
 	**Given**
 	**When**
