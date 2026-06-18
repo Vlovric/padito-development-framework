@@ -12,7 +12,8 @@
 | Explanation   | Short description of purpose and use case |
 | Priority      |                                           |
 | FR dependency |                                           |
-### 2.1. Happy path
+### 2.1. Happy paths
+#### FRXX_XX-HP_XX
 
 | ID:               | FRXX_XX-HP_XX      |
 | ----------------- | ------------------ |
@@ -22,7 +23,7 @@
 | **System action** |                    |
 | **UI reaction**   |                    |
 ### 2.2. Edge cases
-**ID**: FRXX_XX-EC_XX
+#### **ID**: FRXX_XX-EC_XX
 **Scenario**: Name of edge case
 	**Given**
 	**When**
