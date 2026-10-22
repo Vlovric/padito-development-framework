@@ -19,5 +19,6 @@
 # 3. Technology overview
 - `list of technologies and their uses`
 - `frameworks, DBs, deployment, constraints "for example packing format..."`
+# 3.1. Dependencies
 # 4. Definitions, acronims
 - `list of domain specific acronims or names or roles...`
